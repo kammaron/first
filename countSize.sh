@@ -4,4 +4,4 @@ for file in $files
 do
 		sum=$[sum+file]
 done
-echo $sum
+echo $sum"	kb"
